@@ -58,4 +58,3 @@ Meu objetivo com este repositório é:
 ---
 
 📚 Baseado no livro: *Lógica de Programação com JavaScript*
-

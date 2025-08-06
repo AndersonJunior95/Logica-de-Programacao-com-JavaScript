@@ -26,7 +26,7 @@ Este repositório reúne uma coleção de exercícios práticos e exemplos de **
 ## 📁 Estrutura do Repositório
 
 ```
-.
+
 ├── EXERCICIOSCAP1/         # Exercícios introdutórios (entrada/saída, operações básicas)
 │   ├── Anterior e Posterior/
 │   ├── Media do Aluno/

@@ -45,7 +45,7 @@ form.btUrgencia.addEventListener("click", () => {
 })
 
 form.btAtender.addEventListener("click", () => {
-    // Se o tamango do vetor = 0
+    // Se o tamanho do vetor = 0
     if(pacientes.length == 0){
         alert("Não há pacientes na lista de espera")
         form.inPaciente.focus()
